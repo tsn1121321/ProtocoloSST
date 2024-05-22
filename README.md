@@ -39,7 +39,7 @@ Este projeto demonstra uma simulação do protocolo SST (Simulação de Transfer
    python server.py
    
 
-## Configuração e Execução do Cliente
+# Configuração e Execução do Cliente
 
 1. Navegue até a pasta `cliente` e crie o arquivo `client.py` com o com o determinado conteúdo presente no repositório correspondendete ao cliente;
 
@@ -62,6 +62,6 @@ Após a execução dos códigos, verifique se o arquivo `teste.zip` foi transfer
 
 Este projeto demonstra a implementação básica de um protocolo de transferência de arquivos utilizando sockets em Python. Ele pode ser expandido e melhorado com funcionalidades adicionais, como suporte a múltiplos clientes, criptografia dos dados transferidos, e verificação de integridade dos arquivos.
 
-
-# Segue link de formulário para feedback: <https://docs.google.com/forms/d/e/1FAIpQLSfE-b9wr9iS5bOMMWIzGhZ13SuQ_yW93AGtBIcOG6rU-qEXRg/viewform?vc=0&c=0&w=1&flr=0>
-# Segue link do drive para download de arquivo de exemplo: <https://drive.google.com/drive/folders/16aIHVTDtX1tVTM1qs8vm3kRoyG9muPnN?usp=drive_link>
+# Links
+Link do drive para download de arquivo de exemplo: <https://drive.google.com/drive/folders/16aIHVTDtX1tVTM1qs8vm3kRoyG9muPnN?usp=drive_link>
+Link de formulário para feedback: <https://docs.google.com/forms/d/e/1FAIpQLSfE-b9wr9iS5bOMMWIzGhZ13SuQ_yW93AGtBIcOG6rU-qEXRg/viewform?vc=0&c=0&w=1&flr=0>
